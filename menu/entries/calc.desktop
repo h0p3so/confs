@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=calc libre office
+Exec=/usr/bin/libreoffice --calc
+Icon=/home/exupery/Documents/confs/menu/icons/excel256.png

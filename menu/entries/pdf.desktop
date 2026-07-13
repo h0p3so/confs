@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=pdf reader
+Exec=/usr/bin/atril
+Icon=/home/exupery/Documents/confs/menu/icons/pdf256.png

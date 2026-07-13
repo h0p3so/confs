@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=firefox
+Exec=/usr/bin/firefox
+Icon=/home/exupery/Documents/confs/menu/icons/firefox256.png

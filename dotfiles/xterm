@@ -6,3 +6,8 @@ XTerm*VT100.Translations: #override \n\
 
 XTerm*background: black
 XTerm*foreground: white
+
+
+xterm*faceName: APL385 Unicode
+xterm*faceSize: 10
+xterm*renderFont: true

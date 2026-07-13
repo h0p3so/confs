@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=xfce settings
+Exec=/usr/bin/xfce4-settings-manager
+Icon=/home/exupery/Documents/confs/menu/icons/settings256.png
+

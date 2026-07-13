@@ -1,0 +1,19 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+	<Name>hopeso_menu</Name>
+	<AppDir>/home/exupery/Documents/confs/menu/entries</AppDir>
+	<Directory>XfceCustom.directory</Directory>
+
+	<Include>
+		<Category>Office</Category>
+		<Filename>xterm.desktop</Filename>
+		<Filename>firefox.desktop</Filename>
+		<Filename>calc.desktop</Filename>
+		<Filename>writer.desktop</Filename>
+		<Filename>pdf.desktop</Filename>
+		<Filename>xfce-settings.desktop</Filename>
+	</Include>
+</Menu>
+

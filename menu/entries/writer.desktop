@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=writer libre office
+Exec=/usr/bin/libreoffice --writer
+Icon=/home/exupery/Documents/confs/menu/icons/word256.png

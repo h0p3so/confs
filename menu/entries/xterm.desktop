@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=xterm
+Exec=/usr/bin/xterm
+Icon=/home/exupery/Documents/confs/menu/icons/term256.png
