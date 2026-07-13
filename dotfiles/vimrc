@@ -37,8 +37,6 @@ try
 catch
 endtry
 
-color quiet
-
 fun! Set8TabWidth()
 	set tabstop=8
 	set shiftwidth=8
@@ -46,3 +44,6 @@ endfun
 
 autocmd BufNewFile *.S,*.s,*.asm,makefile :call Set8TabWidth()
 autocmd BufReadPre *.S,*.s,*.asm,makefile :call Set8TabWidth()
+
+set background=dark
+color retrobox
