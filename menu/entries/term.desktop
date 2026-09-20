@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=term
+Exec=/usr/bin/xfce4-terminal
+Icon=/home/exupery/Documents/confs/menu/icons/term256.png

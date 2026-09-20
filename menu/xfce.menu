@@ -9,6 +9,7 @@
 	<Include>
 		<Category>Office</Category>
 		<Filename>xterm.desktop</Filename>
+		<Filename>term.desktop</Filename>
 		<Filename>firefox.desktop</Filename>
 		<Filename>calc.desktop</Filename>
 		<Filename>writer.desktop</Filename>
